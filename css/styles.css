@@ -1,0 +1,21 @@
+body
+{
+ margin: 0;
+ padding: 0;
+ width: 100%;
+ font-size: 100%;
+ line-height: 1.3;
+ font-family: "Liberation Sans", "FreeSans", "DejaVu Sans", "Lucida Grande", Lucida, "Helvetica Neue", Helvetica, "Trebuchet MS", Verdana, Geneva, Tahoma, Arial, sans-serif;
+ background: #202020 url("../img/matrix-bw.jpg") no-repeat;
+ color: #f0f0f0;
+}
+
+div#content
+{
+    margin: auto;
+    margin-top: 4em;
+    padding: 0;
+    border: 0;
+    text-align: center;
+    font-size: 4em;
+}
